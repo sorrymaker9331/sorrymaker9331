@@ -6,11 +6,6 @@ Focusing on AI Agent, RAG applications, and LLM system development.
 
 AI 应用开发 / Agent 方向
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorrymaker9331&hide_border=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sorrymaker9331&hide_border=true&theme=transparent&layout=compact)
-
 ## Featured Projects
 
 ### Finance Agent（金融分析智能体）
@@ -44,6 +39,14 @@ AI 应用开发 / Agent 方向
 ![LangChain](https://img.shields.io/badge/LangChain-LLM-green?style=flat-square)
 ![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+---
+
+## Current Focus
+
+- AI application engineering
+- Agent workflow
+- RAG optimization
 
 ---
 
