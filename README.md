@@ -1,6 +1,6 @@
 ## About Me
 
-Incoming MSc @ **South China University of Technology (SCUT)** | Software Engineering
+Incoming MSc @ **South China University of Technology (SCUT)** | Computer Science
 
 Focusing on AI Agent, RAG applications, and LLM system development.
 
