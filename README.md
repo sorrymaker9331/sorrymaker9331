@@ -1,55 +1,88 @@
 ## About Me
 
-Incoming MSc @ **South China University of Technology (SCUT)** | Computer Science
+Incoming MSc @ South China University of Technology (SCUT)  
+BSc in Computer Science
 
-Focusing on AI Agent, RAG applications, and LLM system development.
+I focus on **LLM application engineering and AI Agent systems**.
 
-AI 应用开发 / Agent 方向
+（专注于大模型应用开发与AI Agent系统构建）
+
+My work mainly includes:
+
+- AI Agent system design and implementation
+- Retrieval-Augmented Generation (RAG) systems
+- Prompt engineering and LLM evaluation
+- LLM-based workflow automation
+
+（主要方向：Agent / RAG / Prompt工程 / 模型评估）
+
+---
+
+## Research / Engineering Interests
+
+- LLM Agent architecture (planning, tool use, memory)
+- RAG optimization and knowledge grounding
+- Prompt engineering (CoT, ReAct, few-shot reasoning)
+- Model evaluation, hallucination detection, and error analysis
+
+（关注：Agent架构、RAG优化、提示工程与模型评测）
+
+---
 
 ## Featured Projects
 
-### Finance Agent（金融分析智能体）
-> A-share market data analysis system
+### Finance Agent System
+LLM-based multi-agent system for financial analysis.
 
-- Multi-agent pipeline with LangGraph
-- Qwen3-8B fine-tuning for sentiment analysis
-- MCP-based financial data integration
+（基于大模型的多智能体金融分析系统）
 
----
-
-### RAG Mental Health QA System（心理健康问答系统）
-> Mental health knowledge Q&A for university students
-
-- LangChain + RAG for psychological knowledge retrieval
-- ChatGLM3-6B fine-tuning for empathetic responses
+- Multi-agent workflow for task decomposition and reasoning
+（多智能体任务拆解与推理流程）
+- Tool-augmented LLM system for external data access
+（工具增强型大模型数据调用）
+- End-to-end analysis and report generation pipeline
+（端到端分析与报告生成系统）
 
 ---
 
-### LoRA Fine-tuning Notes（LLM 微调实践）
-> LLM fine-tuning experiments
+### RAG-based Mental Health QA System
+Domain-specific retrieval-augmented QA system.
 
-- LoRA experiments on ChatGLM3-6B and Qwen series
-- Training configs and evaluation results
+（基于RAG的心理健康问答系统）
 
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-LLM-green?style=flat-square)
-![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+- Retrieval-Augmented Generation for knowledge grounding
+（基于检索增强生成的知识约束回答）
+- Multi-turn conversational QA system
+（多轮对话问答系统）
+- LLM-based empathetic response generation
+（情感化回复生成）
 
 ---
 
-## Current Focus
+### LLM Fine-tuning Experiments
+Exploration of parameter-efficient fine-tuning methods.
 
-- AI application engineering
-- Agent workflow
-- RAG optimization
+（大模型微调实验与方法探索）
+
+- LoRA-based fine-tuning on open-source LLMs
+（基于LoRA的轻量微调实验）
+- Behavior and performance analysis
+（模型行为与性能分析）
+- Evaluation under different training settings
+（不同训练配置下的评估）
+
+---
+
+## Technical Focus
+
+Python · Java · Spring Boot · MySQL  
+LangChain · RAG · LLM Agents  
+Prompt Engineering · Model Evaluation
+
+（技术栈：Python / Java / Agent / RAG / Prompt工程 / 模型评估）
 
 ---
 
 ## Contact
 
-GitHub: [@sorrymaker9331](https://github.com/sorrymaker9331)
+GitHub: @yourname
